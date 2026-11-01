@@ -1,0 +1,6 @@
+mcp>=1.12,<2
+httpx>=0.28,<0.29
+pydantic>=2.7,<3
+pydantic-settings>=2.3,<3
+uvicorn>=0.30
+certifi
